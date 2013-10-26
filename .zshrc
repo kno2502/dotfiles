@@ -1,6 +1,7 @@
 autoload -U compinit
 compinit
 
+# export LANG=en_US.UTF-8
 export LANG=ja_JP.UTF-8
 
 PROMPT="%m:%~ > "

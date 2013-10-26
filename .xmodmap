@@ -1,0 +1,9 @@
+keycode 102 = BackSpace
+keycode 100 = Return
+keycode 9 = grave asciitilde
+keycode 49 = Escape Escape Escape
+keycode 97 = grave asciitilde
+! keycode 66 = Control_L
+remove Lock = Caps_Lock
+add Control = Caps_Lock
+keysym Caps_Lock = Control_L
